@@ -12,13 +12,16 @@
 
 ---
 
-### 🛠 Мой стек:
-| Тестирование       | Разработка      | Инструменты      |
-|--------------------|----------------|------------------|
-| - Manual Testing   | - Python       | - Selenium       |
-| - Postman         | - JavaScript   | - Playwright     |
-| - SQL             | - HTML/CSS     | - Git/GitHub     |
-| - JIRA            | - API          | - Docker         |
+<div align="center">
+
+| **Тестирование**       | **Разработка**      | **Инструменты**      |
+|------------------------|---------------------|----------------------|
+|  Manual Testing        |  Python             |   Selenium           |
+|  Postman               |  JavaScript         |   Playwright         |
+|  SQL                   |   HTML/CSS          |   Git/GitHub         |
+|  JIRA                  |  API                |   Docker             |
+
+</div>
 
 ---
 
