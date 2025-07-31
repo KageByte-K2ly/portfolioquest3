@@ -10,11 +10,12 @@
 ### 🧑‍💻 Обо мне:
 - 🔍 **QA Engineer** в ИТ-компании 
 - 🎓 Учусь в **Нетологии** 
-- 💡 Увлекаюсь **Python/JavaScript** и хочу углубиться в разработку
+- 💡 Увлекаюсь **Python/JavaScript** и хочу углубиться в разработку    
 - 🤖 Интересуюсь **нейросетями** 
 
- <img align="right" width="25%" src="https://github-readme-stats.vercel.app/api?username=KageByte-K2ly&show_icons=true&theme=radical" />
-</a>
+ <img  width="30%" src="https://github-readme-stats.vercel.app/api?username=KageByte-K2ly&show_icons=true&theme=radical" />
+
+
 
 
 ---
