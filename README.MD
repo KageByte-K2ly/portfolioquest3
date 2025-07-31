@@ -1,10 +1,12 @@
 # 👋 Здравствуй, я Роман — QA Engineer & будущий разработчик
 
+<img src="1580561491.jpg">
+
+
 <a href="https://github.com/KageByte-K2ly">
   <img align="right" width="25%" src="https://github-readme-stats.vercel.app/api?username=KageByte-K2ly&show_icons=true&theme=radical" />
 </a>
 
-<img src="1580561491.jpg">
 
 ### 🧑‍💻 Обо мне:
 - 🔍 **QA Engineer** в ИТ-компании 
