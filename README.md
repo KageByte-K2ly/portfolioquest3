@@ -1,8 +1,5 @@
 # 👋 Здравствуй, я Роман — QA Engineer & будущий разработчик
 
-<img src="1580561491.jpg">
-
-
 <a href="https://github.com/KageByte-K2ly">
  
 <img  src="1580561491.jpg">
