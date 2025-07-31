@@ -5,8 +5,6 @@
 <img  src="1580561491.jpg">
 
 
- <img align="right" width="25%" src="https://github-readme-stats.vercel.app/api?username=KageByte-K2ly&show_icons=true&theme=radical" />
-</a>
 
 
 ### 🧑‍💻 Обо мне:
@@ -15,6 +13,8 @@
 - 💡 Увлекаюсь **Python/JavaScript** и хочу углубиться в разработку
 - 🤖 Интересуюсь **нейросетями** 
 
+ <img align="right" width="25%" src="https://github-readme-stats.vercel.app/api?username=KageByte-K2ly&show_icons=true&theme=radical" />
+</a>
 
 
 ---
